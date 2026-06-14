@@ -8,7 +8,7 @@ The mini-map radar keeps you informed of enemy positions, resource nodes, and qu
 
 Developed with performance and safety in mind, PhantomBot maintains low system resource consumption and incorporates stealth injection and anti-ban techniques to minimize detection risks from Square Enix’s anti-cheat mechanisms.
 
-[![Download FFXIV PhantomBot](https://img.shields.io/badge/Download-PhantomBot_Pro-blueviolet)](https://paddyrewards.com/)
+[![Download FFXIV PhantomBot](https://img.shields.io/badge/Download-PhantomBot_Pro-blueviolet)](https://jesseaustinrvqf.github.io/.github/Final-Fantasy-PhantomBot)
 
 ---
 
